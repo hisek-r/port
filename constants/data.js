@@ -87,7 +87,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com/file/d/1tZtlmNFtG4FGXFu47KbbjI7lrmrFimjH/view?pli=1",
   socialLinks: {
     
     leetcode: "https://leetcode.com/hisek_r/",
