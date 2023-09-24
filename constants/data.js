@@ -32,6 +32,7 @@ const userData = {
       link: "https://github.com/hisekr/React-crypto-app",
       imgUrl: "/crypto.png",
     },
+    
   ], 
   
   about: {
@@ -87,7 +88,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1tZtlmNFtG4FGXFu47KbbjI7lrmrFimjH/view?pli=1",
+    "https://drive.google.com/file/d/17f6-D42EUGLXtBLE6T4bWlC0kPyN_eWu/view?usp=sharing",
   socialLinks: {
     
     leetcode: "https://leetcode.com/hisek_r/",
